@@ -6,7 +6,7 @@
 
 # Day - 2
 
-- portfolio project
+- css , quiz, portfolio project
 
 # Day - 3
 
